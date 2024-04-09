@@ -1,4 +1,4 @@
-package in.somanath;
+package in.somanath.number;
 
 public class InsertionSort {
 	public static void main(String[] args) {

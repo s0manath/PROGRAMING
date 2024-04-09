@@ -1,4 +1,4 @@
-package in.somanath;
+package in.somanath.number;
 
 import java.util.Scanner;
 
