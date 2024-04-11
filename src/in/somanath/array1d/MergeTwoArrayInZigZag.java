@@ -30,8 +30,8 @@ public class MergeTwoArrayInZigZag {
 			j++;
 			i++;
 		}
-		for(int k=0;k<c.length;k++) {
-			System.out.print(c[k]+" ");
+		for (int k = 0; k < c.length; k++) {
+			System.out.print(c[k] + " ");
 		}
 	}
 
